@@ -702,6 +702,7 @@ Array.from(forms).forEach(form => {
     }, false)
 })
 </script>
+```
 
 ## Ejercicio 1: Crear una página con un navbar
 
