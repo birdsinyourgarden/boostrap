@@ -706,7 +706,7 @@ Array.from(forms).forEach(form => {
 
 ## Ejercicio 1: Crear una página con un navbar
 
-**Enunciado:** Crea una página web que tenga un navbar de Bootstrap. El navbar debe:
+Crea una página web que tenga un navbar de Bootstrap. El navbar debe:
 
 * Tener el nombre de la página a la izquierda.
 * Tener tres enlaces a la derecha: "Inicio", "Servicios" y "Contacto".
@@ -716,7 +716,7 @@ Array.from(forms).forEach(form => {
 
 ## Ejercicio 2: Botones con estilos
 
-**Enunciado:** Crea una sección con cinco botones diferentes usando clases de Bootstrap:
+Crea una sección con cinco botones diferentes usando clases de Bootstrap:
 
 * `btn-primary`
 * `btn-success`
@@ -730,7 +730,7 @@ Asegúrate de que los botones tengan un margen entre ellos y se vean alineados h
 
 ## Ejercicio 3: Tarjetas (Cards)
 
-**Enunciado:** Crea tres tarjetas (cards) con Bootstrap que contengan:
+Crea tres tarjetas (cards) con Bootstrap que contengan:
 
 * Una imagen en la parte superior.
 * Un título.
@@ -741,7 +741,7 @@ Organiza las tarjetas en fila en pantallas grandes y apiladas en pantallas peque
 
 ## Ejercicio 4: Formulario responsive
 
-**Enunciado:** Crea un formulario de contacto que contenga:
+Crea un formulario de contacto que contenga:
 
 * Nombre completo (input de texto)
 * Correo electrónico (input de email)
@@ -754,7 +754,7 @@ Haz que el formulario se vea bien en móviles y en escritorio, usando clases de 
 
 ## Ejercicio 5: Sistema de Grid
 
-**Enunciado:** Crea una sección con 4 columnas de igual tamaño en pantallas grandes.
+Crea una sección con 4 columnas de igual tamaño en pantallas grandes.
 
 * En pantallas medianas, que se reduzcan a 2 columnas.
 * En pantallas pequeñas, que se apilen en 1 columna.
@@ -764,7 +764,7 @@ Haz que el formulario se vea bien en móviles y en escritorio, usando clases de 
 
 ## Ejercicio 6: Carousel de imágenes
 
-**Enunciado:** Crea un carrusel (carousel) con 3 imágenes.
+Crea un carrusel (carousel) con 3 imágenes.
 
 * Cada slide debe tener un texto superpuesto (puede ser un título o frase corta).
 * El carrusel debe incluir indicadores y controles para avanzar y retroceder.
